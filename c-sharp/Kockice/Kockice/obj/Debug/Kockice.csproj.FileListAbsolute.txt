@@ -1,0 +1,7 @@
+C:\Users\Munevera Plojovic\Desktop\c-sharp\Kockice\Kockice\bin\Debug\Kockice.exe.config
+C:\Users\Munevera Plojovic\Desktop\c-sharp\Kockice\Kockice\bin\Debug\Kockice.exe
+C:\Users\Munevera Plojovic\Desktop\c-sharp\Kockice\Kockice\bin\Debug\Kockice.pdb
+C:\Users\Munevera Plojovic\Desktop\c-sharp\Kockice\Kockice\obj\Debug\Kockice.csproj.AssemblyReference.cache
+C:\Users\Munevera Plojovic\Desktop\c-sharp\Kockice\Kockice\obj\Debug\Kockice.csproj.CoreCompileInputs.cache
+C:\Users\Munevera Plojovic\Desktop\c-sharp\Kockice\Kockice\obj\Debug\Kockice.exe
+C:\Users\Munevera Plojovic\Desktop\c-sharp\Kockice\Kockice\obj\Debug\Kockice.pdb
