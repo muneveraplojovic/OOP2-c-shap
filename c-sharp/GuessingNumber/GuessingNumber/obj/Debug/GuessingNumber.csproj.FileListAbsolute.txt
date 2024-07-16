@@ -1,0 +1,7 @@
+C:\Users\Munevera Plojovic\Desktop\c-sharp\GuessingNumber\GuessingNumber\bin\Debug\GuessingNumber.exe.config
+C:\Users\Munevera Plojovic\Desktop\c-sharp\GuessingNumber\GuessingNumber\bin\Debug\GuessingNumber.exe
+C:\Users\Munevera Plojovic\Desktop\c-sharp\GuessingNumber\GuessingNumber\bin\Debug\GuessingNumber.pdb
+C:\Users\Munevera Plojovic\Desktop\c-sharp\GuessingNumber\GuessingNumber\obj\Debug\GuessingNumber.csproj.AssemblyReference.cache
+C:\Users\Munevera Plojovic\Desktop\c-sharp\GuessingNumber\GuessingNumber\obj\Debug\GuessingNumber.csproj.CoreCompileInputs.cache
+C:\Users\Munevera Plojovic\Desktop\c-sharp\GuessingNumber\GuessingNumber\obj\Debug\GuessingNumber.exe
+C:\Users\Munevera Plojovic\Desktop\c-sharp\GuessingNumber\GuessingNumber\obj\Debug\GuessingNumber.pdb
