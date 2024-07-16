@@ -1,0 +1,7 @@
+C:\Users\Munevera Plojovic\Desktop\c-sharp\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Munevera Plojovic\Desktop\c-sharp\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\Munevera Plojovic\Desktop\c-sharp\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Munevera Plojovic\Desktop\c-sharp\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+C:\Users\Munevera Plojovic\Desktop\c-sharp\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Munevera Plojovic\Desktop\c-sharp\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\Munevera Plojovic\Desktop\c-sharp\Calculator\Calculator\obj\Debug\Calculator.pdb
