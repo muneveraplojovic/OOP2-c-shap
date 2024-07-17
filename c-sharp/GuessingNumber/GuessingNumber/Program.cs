@@ -39,6 +39,7 @@ namespace GuessingNumber
                     pogodjenBroj = true;
                 }
             }
+
             Console.WriteLine("Cestitamo, pobedili ste!");
             Console.ReadKey();
         }
